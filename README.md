@@ -1,2 +1,2 @@
 # PV080_buggy_code
-tohle me fakt nebavi
+update pro dependabota a t zacne skenovat
